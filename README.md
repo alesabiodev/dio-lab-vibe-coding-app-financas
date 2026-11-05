@@ -1,4 +1,4 @@
-# 💰 FinaçasIA — App de Organização de Finanças Pessoais com Vibe Coding
+# 💰 FinançasIA — App de Organização de Finanças Pessoais com Vibe Coding
 
 > Projeto desenvolvido para o desafio **"Criando um APP de Organização de Finanças Pessoais com Vibe Coding"** do bootcamp Santander x DIO, usando **GitHub Copilot** e **Lovable**.
 
