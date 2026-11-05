@@ -6,7 +6,7 @@
 
 ## 📌 Resumo do Conceito
 
-O **FinaçasIA** é um aplicativo web que ajuda pessoas a organizar o dinheiro de forma simples, visual e sem planilhas complicadas.
+O **FinançasIA** é um aplicativo web que ajuda pessoas a organizar o dinheiro de forma simples, visual e sem planilhas complicadas.
 
 **Problema:** muita gente não sabe para onde o dinheiro vai no fim do mês e desiste de controlar as finanças porque as ferramentas são complexas.
 
@@ -113,7 +113,7 @@ Integração bancária, multiusuário e exportação para PDF.
 
 🎥 **Vídeo da interação:** [adicione aqui o link, se tiver]
 
-🔗 **App publicado:** [adicione aqui o link do Lovable, se tiver]
+🔗 **App publicado:** [https://planos-financas-dia-adia.lovable.app]
 
 ---
 
